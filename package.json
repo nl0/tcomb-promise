@@ -1,0 +1,26 @@
+{
+  "name": "tcomb-promise",
+  "version": "0.0.0",
+  "description": "tcomb combinator for promises / thenables",
+  "main": "tcomb-promise",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nl0/tcomb-promise.git"
+  },
+  "keywords": [
+    "tcomb",
+    "promise",
+    "thenable",
+    "type"
+  ],
+  "author": "nl_0 <nl.imbecile@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nl0/tcomb-promise/issues"
+  },
+  "homepage": "https://github.com/nl0/tcomb-promise#readme",
+  "peerDependencies": {
+    "tcomb": "^3"
+  }
+}
