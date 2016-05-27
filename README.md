@@ -22,6 +22,7 @@ User = T.struct
 fetchUser = T.func T.String, T.promise(User)
 .of (id) ->
   fetch "https://example.com/users/#{id}"
+  .then ({data}) -> data
 
 fetchUser('someId').then (u) ->
   # result is automatically hydrated
