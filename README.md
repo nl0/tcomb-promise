@@ -6,7 +6,7 @@
 ## Installation
 
 ```shell
-npm install nl0/tcomb-promise
+npm install tcomb-promise
 ```
 
 ## Usage
