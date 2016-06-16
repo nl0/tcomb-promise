@@ -22,5 +22,10 @@
   "homepage": "https://github.com/nl0/tcomb-promise#readme",
   "peerDependencies": {
     "tcomb": "^3"
+  },
+  "browserify": {
+    "transform": [
+      "coffeeify"
+    ]
   }
 }
