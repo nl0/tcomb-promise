@@ -1,6 +1,6 @@
 {
   "name": "tcomb-promise",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "tcomb combinator for promises / thenables",
   "main": "tcomb-promise",
   "scripts": {},
