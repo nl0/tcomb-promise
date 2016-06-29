@@ -2,7 +2,7 @@
 
 ## `0.0.2` (2016-06-29)
 
-  Rewrite, it seems to actually work now.
+Rewrite, it seems to actually work now.
 
 ## `0.0.1` (2016-06-16)
 
